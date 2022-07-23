@@ -132,6 +132,7 @@ function checavencedor (Quadrado1, Quadrado2, Quadrado3){
 }
 
 function reiniciar() {
+    jogador = 'X';
     vencedor = null;
     vencedorselecionado.innerHTML= '';
 
