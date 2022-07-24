@@ -1,5 +1,9 @@
 body{
     text-align: center;
+   
+}
+*{
+    color:white;
 }
 
 .quadrado{
@@ -21,9 +25,31 @@ body{
 }
 
 button{
+    color: black;
     margin-top: 14px;
     width: 100px;
     height: 30px;
     background-color: #eee;
     cursor: pointer;
+}
+footer{
+    margin: auto;
+    background-color: black;
+    max-width: 308px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 15px;
+    
+}
+footer > p{
+    margin: 0px;
+}
+div.q1{
+    background-color: black;
+    margin-left: 0px;
+    margin: auto;
+    max-width: 308px;
+    border: 5px solid black;
+    padding: 10px;
 }
