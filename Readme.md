@@ -6,7 +6,7 @@
 <br>
 
 <p>Vídeo: </p>
-<p align="center"> <img src="assets/video_to_readme">
+<p align="center"> <img src="assets/video_to_readme.gif">
 
 
 <br>
